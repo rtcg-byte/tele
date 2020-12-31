@@ -79,12 +79,12 @@ http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/3185
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/3186
 #EXTINF:-1 tvg-id="skhd" tvg-name="skhd" tvg-logo="https://cdn.prognozist.ru/match-center/1533049669_tv_787.png" group-title="Nasi Kanali",Sport Klub
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/27524
-#EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 1 Crna Gora
-http://bitkananeretvi.net:8000/live.ts?channelId=20967&uid=34972&deviceMac=00:1A:79:57:3B:35
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 1 SRB
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/13832
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
 http://bitkananeretvi.net:8000/live.ts?channelId=20961&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 1 Crna Gora
+http://bitkananeretvi.net:8000/live.ts?channelId=20967&uid=34972&deviceMac=00:1A:79:57:3B:3
 #EXTINF:-1 tvg-id="sk2.rs" tvg-name="sk2.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk2.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 2 SRB
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/17257
 #EXTINF:-1 tvg-id="sk2.rs" tvg-name="sk2.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 2 SRB (Rezerva)
@@ -93,11 +93,11 @@ http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/1441
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/17258
 #EXTINF:-1 tvg-id="sk3.rs" tvg-name="sk3.rs" tvg-logo="" group-title="Nasi Kanali",sport Klub 3 SRB (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/1442
-#EXTINF:-1 tvg-id="sk4.rs" tvg-name="sk4.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk4.png?resize=219%2C219" group-title="Nasi Kanali",port Klub 4 SRB
+#EXTINF:-1 tvg-id="sk4.rs" tvg-name="sk4.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk4.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 4 SRB
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/13829
-#EXTINF:-1 tvg-id="sk5.rs" tvg-name="sk5.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk5.png?resize=219%2C219" group-title="Nasi Kanali",port Klub 5 SRB
+#EXTINF:-1 tvg-id="sk5.rs" tvg-name="sk5.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk5.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 5 SRB
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/13830
-#EXTINF:-1 tvg-id="sk6.rs" tvg-name="sk6.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk6.png?resize=219%2C219" group-title="Nasi Kanali",port Klub 6 SRB
+#EXTINF:-1 tvg-id="sk6.rs" tvg-name="sk6.rs" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk6.png?resize=219%2C219" group-title="Nasi Kanali",Sport Klub 6 SRB
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/13831
 #EXTINF:-1 tvg-id="sk1" tvg-name="Sport Klub 1 FHD HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 FHD HR
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/17256
