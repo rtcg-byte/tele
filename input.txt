@@ -1,14 +1,14 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="rtcg1" tvg-name="rtcg1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/RTCG1_logo_2012.png/revision/latest/scale-to-width-down/100?cb=20130102124458" group-title="Nasi Kanali",RTCG 1
-http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/28063
+http://wrlstr.dvrdns.org:18066/live?channelId=275&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="rtcgSat" tvg-name="rtcgSat" tvg-logo="https://4.bp.blogspot.com/-QalAi7rgRSI/UAL1BhjOxaI/AAAAAAAAImY/F9JyYVDVirE/s1600/RTCG+Sat+logo+2012.png" group-title="Nasi Kanali",RTCG Satelit
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/13814
 #EXTINF:-1 tvg-id="rtcg2" tvg-name="rtcg2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTCG2_logo_2012.png/revision/latest/scale-to-width-down/340?cb=20161021204633" group-title="Nasi Kanali",RTCG 2
-http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/16426
+http://telehetz.dvrdns.org:12345/live?channelId=266&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="vijesticg" tvg-name="vijesticg" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102011/nd_vijesti.ai_.png?itok=dSZ2uBS6" group-title="Nasi Kanali", Vijesti TV
-http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/16427
+http://bitkananeretvi.net:8000/live.ts?channelId=2874&uid=34972&deviceMac=00:1A:79:57:3B:35
 #EXTINF:-1 tvg-id="777" tvg-name="777 ME" tvg-logo="http://www.rtvd.com/productimages/1470246033.jpg" group-title="Nasi Kanali",777 TV
-http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/19381
+http://bitkananeretvi.net:8000/live.ts?channelId=1094&uid=34972&deviceMac=00:1A:79:57:3B:35
 #EXTINF:-1 tvg-id="pinkcg" tvg-name="pinkcg" tvg-logo="https://media.licdn.com/dms/image/C560BAQHaI5cmJZOAvg/company-logo_200_200/0?e=2159024400&v=beta&t=c-Mo07gO7v0vcl6dCBkBA7kGXMumzlWBXUdUnn94ER4" group-title="Nasi Kanali",Pink M
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/23661
 #EXTINF:-1 tvg-id="prvacg" tvg-name="prvacg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4Af933W6bl-p37yYpVTRTmJXMvhw7iuvhm_z0xkbsgo5N5foZ" group-title="Nasi Kanali",Prva CG
@@ -362,7 +362,7 @@ http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/16610
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/16611
 #EXTINF:-1 tvg-id="pinksuper" tvg-name="pinksuper" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="Nasi Kanali",Pink Super
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/13761
-#EXTINF:-1 tvg-id="pinkshow" tvg-name="pinkshow" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkShow.png" group-title="Nasi Kanali",pinkshow
+#EXTINF:-1 tvg-id="pinkshow" tvg-name="pinkshow" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkShow.png" group-title="Nasi Kanali",Pink Show
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/20141
 #EXTINF:-1 tvg-id="pinkkoncert" tvg-name="pinkkoncert" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkKoncert_logo.png" group-title="Nasi Kanali",Pink Koncert
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/28049
@@ -422,6 +422,8 @@ http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/23446
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/28048
 #EXTINF:-1 tvg-id="rtsmuzika" tvg-name="rtsmuzika" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Muzika_logo.png" group-title="Nasi Kanali",RTS Muzika
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/28047
+#EXTINF:-1 tvg-id="" tvg-name="RTS NAUKA HD" tvg-link="" tvg-logo="https://mtel.me/oec/images/tv_channels/d0e9e3a355d9f9a04b80a47a2fffc128.png" group-title="Nasi Kanali" ,RTS NAUKA HD
+http://bitkananeretvi.net:8000/live.ts?channelId=18511&uid=34972&deviceMac=00:1A:79:57:3B:35
 #EXTINF:-1 tvg-id="rtskolo" tvg-name="rtskolo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="Nasi Kanali",RTS Kolo
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/28390
 #EXTINF:-1 tvg-id="rtszivot" tvg-name="rtszivot" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Zivot_logo.png" group-title="Nasi Kanali",RTS Zivot
@@ -488,6 +490,10 @@ http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/5038
 http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/9395
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekka TV BIH" tvg-logo="" group-title="Nasi Kanali",Mekka TV BIH
 http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/9361
+#EXTINF:-1 tvg-id="" tvg-name="QURAN TV." tvg-link="" tvg-logo="" group-title="Nasi Kanali" ,QURAN TV.
+http://bitkananeretvi.net:8000/live.ts?channelId=22464&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="SUNNAH TV" tvg-link="" tvg-logo="" group-title="Nasi Kanali" ,SUNNAH TV
+http://bitkananeretvi.net:8000/live.ts?channelId=22465&uid=34972&deviceMac=00:1A:79:57:3B:35
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACIOUS 1 HD" tvg-logo="" group-title="Nasi Kanali",CINEMACIOUS 1 HD
 http://bitkananeretvi.net:8000/live.ts?channelId=21675&uid=34972&deviceMac=00:1A:79:57:3B:35
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMACIOUS 2 HD" tvg-logo="" group-title="Nasi Kanali",CINEMACIOUS 2 HD
@@ -900,15 +906,21 @@ http://telehetz.dvrdns.org:12345/live?channelId=449&uid=318&deviceUser=brankonem
 http://wrlstr.dvrdns.org:18066/live?channelId=421&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="422" tvg-name="388. BEIN Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd2.png" group-title="Nasi Kanali",388. BEIN Sport 2 HD
 http://telehetz.dvrdns.org:12345/live?channelId=422&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="446" tvg-name="398. Ziggo Sport Extra 1 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",398. Ziggo Sport Extra 1 HD
-http://wrlstr.dvrdns.org:18066/live?channelId=446&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="466" tvg-name="399. Ziggo Sport Extra 2 HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",399. Ziggo Sport Extra 2 HD
-http://telehetz.dvrdns.org:12345/live?channelId=466&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="450" tvg-name="400. Ziggo Sport Golf HD" tvg-logo="/noicon.png" group-title="Nasi Kanali",400. Ziggo Sport Golf HD
-http://wrlstr.dvrdns.org:18066/live?channelId=450&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="451" tvg-name="401. Ziggo Sport Racing" tvg-logo="/noicon.png" group-title="Nasi Kanali",401. Ziggo Sport Racing
-http://telehetz.dvrdns.org:12345/live?channelId=451&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="452" tvg-name="402. Ziggo Sport Select" tvg-logo="/noicon.png" group-title="Nasi Kanali",402. Ziggo Sport Select
-http://wrlstr.dvrdns.org:18066/live?channelId=452&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="453" tvg-name="403. Ziggo Sport Voetbal" tvg-logo="/noicon.png" group-title="Nasi Kanali",403. Ziggo Sport Voetbal
-http://telehetz.dvrdns.org:12345/live?channelId=453&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM SPORT 1 (ROM)" tvg-link="" tvg-logo="https://sport-tv-guide.live/images/stations/a884.png" group-title="Nasi Kanali" ,TELEKOM SPORT 1 (ROM)
+http://bitkananeretvi.net:8000/live.ts?channelId=4879&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM SPORT 2 (ROM)" tvg-link="" tvg-logo="http://bitkananeretvi.net:8000/images/F21Ab5Yuf1FQ9sjEpukQZrSpgNfLRoCa.png" group-title="Nasi Kanali" ,TELEKOM SPORT 2 (ROM)
+http://bitkananeretvi.net:8000/live.ts?channelId=4880&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM SPORT 3 (ROM)" tvg-link="" tvg-logo="https://sport-tv-guide.live/images/stations/a886.png" group-title="Nasi Kanali" ,TELEKOM SPORT 3 (ROM)
+http://bitkananeretvi.net:8000/live.ts?channelId=4881&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 1 HD" tvg-link="" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/eleven-sport-1.png?resize=219%2C219" group-title="Nasi Kanali" ,ELEVEN SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=22817&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 2 HD" tvg-link="" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/eleven-sport-2-1.png?resize=219%2C219" group-title="Nasi Kanali" ,ELEVEN SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=22818&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 3 HD" tvg-link="" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/eleven-sport-1.png?resize=219%2C219" group-title="Nasi Kanali" ,ELEVEN SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=22819&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-link="" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png" group-title="Nasi Kanali" ,DIGI SPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=2949&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 2 " tvg-link="" tvg-logo="http://www.canlisportv.com//media/images/tvlogo/8d1e130f-39c7-4ea8-8965-1f60c4a9428e_digisport2-tv.jpg" group-title="Nasi Kanali" ,DIGI SPORT 2 
+http://bitkananeretvi.net:8000/live.ts?channelId=4858&uid=34972&deviceMac=00:1A:79:57:3B:35
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 3 " tvg-link="" tvg-logo="https://3.bp.blogspot.com/-tR2DjWJiT1I/VuVOn3ebELI/AAAAAAAABMw/AFu5BdWQvm820M_NtHz6zlzTQ_Rpbo7Qg/s1600/digisport3_logo.jpg" group-title="Nasi Kanali" ,DIGI SPORT 3 
+http://bitkananeretvi.net:8000/live.ts?channelId=4859&uid=34972&deviceMac=00:1A:79:57:3B:35
