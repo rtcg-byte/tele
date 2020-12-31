@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U
 #EXTINF:-1 tvg-id="rtcg1" tvg-name="rtcg1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/RTCG1_logo_2012.png/revision/latest/scale-to-width-down/100?cb=20130102124458" group-title="Nasi Kanali",rtcg1
 http://tv.refundoiptv.iptv.uno:80/Micke03/ZFzFRU6/28063
 #EXTINF:-1 tvg-id="rtcgSat" tvg-name="rtcgSat" tvg-logo="https://4.bp.blogspot.com/-QalAi7rgRSI/UAL1BhjOxaI/AAAAAAAAImY/F9JyYVDVirE/s1600/RTCG+Sat+logo+2012.png" group-title="Nasi Kanali",rtcgSat
