@@ -6,47 +6,51 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13814
 #EXTINF:-1 tvg-id="rtcg2" tvg-name="rtcg2" tvg-logo="http://proxiapp.me/logo/cg/RTCG2.png" group-title="Nasi Kanali",RTCG 2
 http://telehetz.dvrdns.org:12345/live?channelId=266&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="vijesticg" tvg-name="vijesticg" tvg-logo="http://proxiapp.me/logo/cg/TvVijesti.png" group-title="Nasi Kanali", Vijesti TV
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10680
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10680
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="jazeera" tvg-logo="http://reddeviliptv.com/logo/Al%20Jazeera%20Balkans.png" group-title="Nasi Kanali",Al Jazeera
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/3189
 #EXTINF:-1 tvg-id="Pink Montenegro" tvg-name="pinkcg" tvg-logo="http://reddeviliptv.com/logo/Pink%20M.png" group-title="Nasi Kanali",Pink M
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/23661
 #EXTINF:-1 tvg-id="Pink Montenegro" tvg-name="Pink M" tvg-logo="http://proxiapp.me/logo/pink/PinkM.png" group-title="Nasi Kanali",Pink M (Rezerva)
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10859
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10859
 #EXTINF:-1 tvg-id="prvamne" tvg-name="prvamne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4Af933W6bl-p37yYpVTRTmJXMvhw7iuvhm_z0xkbsgo5N5foZ" group-title="Nasi Kanali",Prva CG
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10681
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10681
 #EXTINF:-1 tvg-id="Nova M" tvg-name="pinkm" tvg-logo="http://reddeviliptv.com/logo/Nova%20M.png" group-title="Nasi Kanali",Nova M
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24145
 #EXTINF:-1 tvg-id="Nova M" tvg-name="Nova M TV HD" tvg-logo="http://proxiapp.me/logo/cg/NovaM.png" group-title="Nasi Kanali",Nova M TV HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10676
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10676
 #EXTINF:-1 tvg-id="niksic" tvg-name="TV NIKSIC HD" tvg-logo="http://www.rtnk.me/theme/images/footer-logo.png" group-title="Nasi Kanali",TV NIKSIC HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10682
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10682
 #EXTINF:-1 tvg-id="budva" tvg-name="TV BUDVA HD" tvg-logo="http://proxiapp.me/logo/cg/Budva.png" group-title="Nasi Kanali",TV BUDVA HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10683
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10683
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HERCEG NOVI HD" tvg-logo="http://proxiapp.me/logo/cg/hn.png" group-title="Nasi Kanali",HERCEG NOVI HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/11447
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/11447
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ROZAJE HD" tvg-logo="http://proxiapp.me/logo/cg/Rozaje.png" group-title="Nasi Kanali",TV ROZAJE HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10684
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10684
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV PLJEVLJA HD" tvg-logo="http://proxiapp.me/logo/cg/tvpljevlja.png" group-title="Nasi Kanali",TV PLJEVLJA HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10685
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10685
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV SUN" tvg-logo="http://proxiapp.me/logo/cg/Sun.png" group-title="Nasi Kanali",TV SUN
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10686
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10686
 #EXTINF:-1 tvg-id="corona" tvg-name="RTV CORANA" tvg-logo="http://proxiapp.me/logo/cg/Corona.png" group-title="Nasi Kanali",TV CORANA
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10687
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10687
 #EXTINF:-1 tvg-id="srpska" tvg-name="srpska" tvg-logo="http://proxiapp.me/logo/cg/Srpska.png" group-title="Nasi Kanali",TV Srpska ME
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10688
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10688
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novi TV ME" tvg-logo="http://proxiapp.me/logo/cg/Novi.png" group-title="Nasi Kanali",Herceg Novi TV ME
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10689
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10689
 #EXTINF:-1 tvg-id="a1tv" tvg-name="A1 TV" tvg-logo="http://proxiapp.me/logo/cg/A1MN.png" group-title="Nasi Kanali",A1 TV
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10690
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10690
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV BOIN HD" tvg-logo="http://proxiapp.me/logo/cg/Boin.png" group-title="Nasi Kanali",TV BOIN HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10691
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10691
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Teuta HD ME" tvg-logo="http://proxiapp.me/logo/cg/Teuta.png" group-title="Nasi Kanali",TV Teuta HD ME
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10692
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10692
 #EXTINF:-1 tvg-id="777" tvg-name="777 ME" tvg-logo="http://proxiapp.me/logo/cg/TV777.png" group-title="Nasi Kanali",777 TV
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10693
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10693
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="eurosport1" tvg-logo="http://reddeviliptv.com/logo/Eurosport%201.png" group-title="Nasi Kanali",EuroSport 1
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1443
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="eurosport2" tvg-logo="http://reddeviliptv.com/logo/Eurosport%202.png" group-title="Nasi Kanali",EuroSport 2
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1444
+#EXTINF:-1 tvg-id="" tvg-name="eurosport2" tvg-logo="" group-title="Nasi Kanali",EuroSport 2 (REZERVA)
+http://wrlstr.dvrdns.org:18066/live?channelId=118&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-ID="Nova Sport RS/BH FHD" tvg-name="Nova Sport RS/HR/BH FHD" tvg-logo="http://reddeviliptv.com/logo/Nova%20Sport.png" group-title="Nasi Kanali",Nova Sport HD RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/29855
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="arena1.rs" tvg-logo="http://reddeviliptv.com/logo/A1.png" group-title="Nasi Kanali",Arenasport 1 SRB
@@ -66,11 +70,11 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27524
 #EXTINF:-1 tvg-id="SK1 RS HD" tvg-name="sk1.rs" tvg-logo="http://reddeviliptv.com/logo/SK1HD.png" group-title="Nasi Kanali",Sport Klub 1 SRB
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13832
 #EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
-http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1440
 #EXTINF:-1 tvg-id="SK2 RS HD" tvg-name="sk2.rs" tvg-logo="http://reddeviliptv.com/logo/SK2HD.png" group-title="Nasi Kanali",Sport Klub 2 SRB
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17257
 #EXTINF:-1 tvg-id="sk2.rs" tvg-name="sk2.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 2 SRB (Rezerva)
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1441
+http://wrlstr.dvrdns.org:18066/live?channelId=120&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="SK3 RS HD" tvg-name="sk3.rs" tvg-logo="http://reddeviliptv.com/logo/SK3HD.png" group-title="Nasi Kanali",Sport Klub 3 SRB
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17258
 #EXTINF:-1 tvg-id="sk3.rs" tvg-name="sk3.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 3 SRB (Rezerva)
@@ -107,36 +111,34 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/26091
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28085
 #EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/19004
+#EXTINF:-1 tvg-id="arena1" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV (Rezerva)
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1436
 #EXTINF:-1 tvg-id="Arena Sport 2 HR FHD" tvg-name="arena2" tvg-logo="" group-title="Nasi Kanali",Arenasport 2 HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17914
+#EXTINF:-1 tvg-id="arena2" tvg-name="arena2" tvg-logo="" group-title="Nasi Kanali",Arenasport 2 HRV (Rezerva)
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1437
 #EXTINF:-1 tvg-id="Arena Sport 3 HR FHD" tvg-name="arena3" tvg-logo="" group-title="Nasi Kanali",Arenasport 3 HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17916
-#EXTINF:-1 tvg-id="Arena Sport 3 HR FHD" tvg-name="arena3" tvg-logo="" group-title="Nasi Kanali",Arenasport 3 HRV (Rezerva)
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17917
+#EXTINF:-1 tvg-id="arena3" tvg-name="arena3" tvg-logo="" group-title="Nasi Kanali",Arenasport 3 HRV (Rezerva)
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1438
 #EXTINF:-1 tvg-id="Arena Sport 4 HR FHD" tvg-name="arena4" tvg-logo="" group-title="Nasi Kanali",Arenasport 4 HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17915
+#EXTINF:-1 tvg-id="arena4" tvg-name="arena4" tvg-logo="" group-title="Nasi Kanali",Arenasport 4 HRV (Rezerva)
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1439
 #EXTINF:-1 tvg-id="Arena Sport 5 HR FHD" tvg-name="arena5" tvg-logo="" group-title="Nasi Kanali",Arenasport 5 HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13827
 #EXTINF:-1 tvg-id="Arena Sport 6 HR FHD" tvg-name="arena6" tvg-logo="" group-title="Nasi Kanali",Arenasport 6 HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13828
-#EXTINF:-1 tvg-id="arena1" tvg-name="arena1" tvg-logo="" group-title="Nasi Kanali",Arenasport 1 HRV
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1436
-#EXTINF:-1 tvg-id="arena2" tvg-name="arena2" tvg-logo="" group-title="Nasi Kanali",Arenasport 2 HRV
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1437
-#EXTINF:-1 tvg-id="arena3" tvg-name="arena3" tvg-logo="" group-title="Nasi Kanali",Arenasport 3 HRV
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1438
-#EXTINF:-1 tvg-id="arena4" tvg-name="arena4" tvg-logo="" group-title="Nasi Kanali",Arenasport 4 HRV
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1439
 #EXTINF:-1 tvg-id="planetsport4" tvg-name="planetsport4" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/5e/PlanetSport.jpg" group-title="Nasi Kanali",PlanetSport 4
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27815
 #EXTINF:-1 tvg-id="planetsport5" tvg-name="planetsport5" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/5/5e/PlanetSport.jpg" group-title="Nasi Kanali",PlanetSport 5
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27816
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNE Sport 1 HD" tvg-logo="https://mtel.me/oec/images/tv_channels/d2b87f2656b4d4d7583463f45bab47bc.png" group-title="Nasi Kanali",MNE Sport 1 HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10521
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10521
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNE Sport 2 HD" tvg-logo="https://mtel.me/oec/images/tv_channels/f25208a4d5bcaf1af41ec589b7862ab1.png" group-title="Nasi Kanali",MNE Sport 2 HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/16540
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/16540
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNE Sport 3 HD" tvg-logo="https://mnesport.tv/images/logo//shere.jpg" group-title="Nasi Kanali",MNE Sport 3 HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/16541
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/16541
 #EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="jazeera" tvg-logo="http://reddeviliptv.com/logo/Al%20Jazeera%20Balkans.png" group-title="Nasi Kanali",Al Jazeera
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/3189
 #EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="RTS 1 HD" tvg-logo="http://reddeviliptv.com/logo/RTS%201.png" group-title="Nasi Kanali",RTS 1
@@ -175,31 +177,31 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13762
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/33965
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandzak TV RS" tvg-logo="http://4.bp.blogspot.com/-zlbXfl1fxL8/VdzUDtH9YnI/AAAAAAAAAaA/oUEFOh4QJb0/s1600/Sand%25C5%25BEak%2Btv.png" group-title="Nasi Kanali",Sandzak TV RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13818
-#EXTINF:-1 tvg-id="" tvg-name="Kurir TV HD" tvg-logo="" group-title="Nasi Kanali",Kurir TV HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/17101
-#EXTINF:-1 tvg-id="" tvg-name="TV 4S" tvg-logo="" group-title="Nasi Kanali",TV 4S
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/16424
+#EXTINF:-1 tvg-id="" tvg-name="Kurir TV HD" tvg-logo="https://mojasupernova.rs/Picture/765/jpeg/d1169e058d364b46d4bbb6ec6440467fZ2YK7wKXXhU4bqHg-0.jpg" group-title="Nasi Kanali",Kurir TV HD
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/17101
+#EXTINF:-1 tvg-id="" tvg-name="TV 4S" tvg-logo="https://www.tv4s.rs/wp-content/uploads/2017/09/tv4s-logo3.png" group-title="Nasi Kanali",TV 4S
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/16424
 #EXTINF:-1 tvg-id="htv1" tvg-name="TV Hram" tvg-logo="http://proxiapp.me/logo/srbija/Hram.png" group-title="Nasi Kanali",TV Hram
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10714
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10714
 #EXTINF:-1 tvg-id="" tvg-name="RTV USK" tvg-logo="http://proxiapp.me/logo/srbija/RTVUsk.png" group-title="Nasi Kanali",RTV USK
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_rts_svet.png" group-title="Nasi Kanali",RTS Svet 
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10729
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Svet RS" tvg-logo="http://proxiapp.me/logo/srbija/RTSSvet.png" group-title="Nasi Kanali",RTS Svet 
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/19812
-#EXTINF:-1 tvg-id="rtstrezor" tvg-name="rtstrezor" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Trezor_logo.png" group-title="Nasi Kanali",RTS Trezor
+#EXTINF:-1 tvg-id="rtstrezor" tvg-name="rtstrezor" tvg-logo="http://proxiapp.me/logo/srbija/RTSTrezor.png" group-title="Nasi Kanali",RTS Trezor
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/23446
-#EXTINF:-1 tvg-id="rtsdrama" tvg-name="rtsdrama" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Drama_logo.png" group-title="Nasi Kanali",RTS Drama
+#EXTINF:-1 tvg-id="rtsdrama" tvg-name="rtsdrama" tvg-logo="http://proxiapp.me/logo/srbija/RTSDrama.png" group-title="Nasi Kanali",RTS Drama
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28048
-#EXTINF:-1 tvg-id="rtsmuzika" tvg-name="rtsmuzika" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Muzika_logo.png" group-title="Nasi Kanali",RTS Muzika
+#EXTINF:-1 tvg-id="rtsmuzika" tvg-name="rtsmuzika" tvg-logo="http://proxiapp.me/logo/srbija/RTSMuzika.png" group-title="Nasi Kanali",RTS Muzika
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28047
-#EXTINF:-1 tvg-id="rtskolo" tvg-name="rtskolo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="Nasi Kanali",RTS Kolo
+#EXTINF:-1 tvg-id="rtskolo" tvg-name="rtskolo" tvg-logo="http://proxiapp.me/logo/srbija/RTSKolo.png" group-title="Nasi Kanali",RTS Kolo
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28390
-#EXTINF:-1 tvg-id="rtszivot" tvg-name="rtszivot" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_Zivot_logo.png" group-title="Nasi Kanali",RTS Zivot
+#EXTINF:-1 tvg-id="rtszivot" tvg-name="rtszivot" tvg-logo="http://proxiapp.me/logo/srbija/RTSZivot.png" group-title="Nasi Kanali",RTS Zivot
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="" group-title="Nasi Kanali",RTS Poletarac RS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTS Poletarac RS" tvg-logo="https://i2.wp.com/pcpress.rs/wp-content/uploads/2018/08/rts.png?fit=800%2C449&ssl=1" group-title="Nasi Kanali",RTS Poletarac RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/29557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Leskovac RS" tvg-logo="" group-title="Nasi Kanali",TV Leskovac RS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Leskovac RS" tvg-logo="https://www.tvl.rs/wp-content/uploads/2019/10/TVL-logo-.png" group-title="Nasi Kanali",TV Leskovac RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Palma Plus RS" tvg-logo="" group-title="Nasi Kanali",The Palma Plus RS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Palma Plus RS" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/palma-plus.png" group-title="Nasi Kanali",Palma Plus RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/19624
 #EXTINF:-1 tvg-id="studiob" tvg-name="studiob" tvg-logo="http://www.radio-uzivo.com/images/radio-stanica/studio-b-beograd_200_1.jpg" group-title="Nasi Kanali",Studio B
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/11287
@@ -213,7 +215,7 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/6087
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15854
 #EXTINF:-1 tvg-id="N1 BH" tvg-name="n1.ba" tvg-logo="http://reddeviliptv.com/logo/N1%20BiH%20HD.png" group-title="Nasi Kanali",N1 TV BiH
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/16817
-#EXTINF:-1 tvg-id="usk" tvg-name="TV USK HD BA" tvg-logo="" group-title="Nasi Kanali",TV USK HD BA
+#EXTINF:-1 tvg-id="usk" tvg-name="TV USK HD BA" tvg-logo="http://proxiapp.me/logo/srbija/RTVUsk.png" group-title="Nasi Kanali",TV USK HD BiH
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/19138
 #EXTINF:-1 tvg-id="ATV" tvg-name="alternativna" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/3/36/Alternativna_TV_logo.png/480px-Alternativna_TV_logo.png" group-title="Nasi Kanali",Alternativna TV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13797
@@ -231,7 +233,7 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/11282
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15864
 #EXTINF:-1 tvg-id="BN" tvg-name="bntv" tvg-logo="http://reddeviliptv.com/logo/BN.png" group-title="Nasi Kanali",BN TV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15862
-#EXTINF:-1 tvg-id="izvornatv" tvg-name="izvornatv" tvg-logo="" group-title="Nasi Kanali",Izvorna Tv
+#EXTINF:-1 tvg-id="izvornatv" tvg-name="izvornatv" tvg-logo="https://m-edin-a.com/wp-content/uploads/2017/06/izvorna-tv-150x150.png group-title="Nasi Kanali",Izvorna Tv
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/18824
 #EXTINF:-1 tvg-id="Nova BH FHD" tvg-name="Nova BH BA" tvg-logo="http://reddeviliptv.com/logo/Nova%20BH.png" group-title="Nasi Kanali",Nova BH BA
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24144
@@ -239,15 +241,15 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24144
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15861
 #EXTINF:-1 tvg-id="Hayat Plus" tvg-name="hayatplus" tvg-logo="http://reddeviliptv.com/logo/Hayat%20Plus.png" group-title="Nasi Kanali",Hayat Plus
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moje Bugojno BA" tvg-logo="" group-title="Nasi Kanali",Moje Bugojno BA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moje Bugojno BA" tvg-logo="https://poslovni.telemach.ba/wp-content/uploads/2020/04/tv-bugojno.png" group-title="Nasi Kanali",Moje Bugojno BA
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24178
-#EXTINF:-1 tvg-id="citytv" tvg-name="citytv" tvg-logo="" group-title="Nasi Kanali",City Tv
+#EXTINF:-1 tvg-id="citytv" tvg-name="citytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_of_CITY_TV.png" group-title="Nasi Kanali",City Tv
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24687
-#EXTINF:-1 tvg-id="kanal6" tvg-name="kanal6" tvg-logo="" group-title="Nasi Kanali",Kanal 6
+#EXTINF:-1 tvg-id="kanal6" tvg-name="kanal6" tvg-logo="https://w7.pngwing.com/pngs/85/814/png-transparent-kanali-6-television-channel-kanal-6-star-tv-others-television-text-trademark.png" group-title="Nasi Kanali",Kanal 6
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/25270
 #EXTINF:-1 tvg-id="TV TK Tuzla" tvg-name="tktuzla" tvg-logo="http://reddeviliptv.com/logo/TK.png" group-title="Nasi Kanali",TV TK Tuzla
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/26685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1 TV BA" tvg-logo="" group-title="Nasi Kanali",B1 TV BA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1 TV BA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/B1_TV_%282007-2011%29.png/revision/latest/scale-to-width-down/340?cb=20201214180228" group-title="Nasi Kanali",B1 TV BA
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27660
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="hbo1" tvg-logo="http://reddeviliptv.com/logo/HBO%20HD.png" group-title="Nasi Kanali",HBO
 http://wrlstr.dvrdns.org:18066/live?channelId=90&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
@@ -260,16 +262,16 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13806
 #EXTINF:-1 tvg-id="CineStar TV" tvg-name="cinestartv" tvg-logo="http://reddeviliptv.com/logo/CineStar%20TV.png" group-title="Nasi Kanali",CineStar TV
 http://wrlstr.dvrdns.org:18066/live?channelId=265&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="CineStar TV 2" tvg-name="cinestartv" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Nasi Kanali",CineStar TV 2
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/17048
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/17048
 #EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-name="cinestaraction" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Action%20&%20Thriller.png" group-title="Nasi Kanali",CineStar Action & Thriller 
 http://telehetz.dvrdns.org:12345/live?channelId=335&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-name="cinestarfantasy" tvg-logo="http://reddeviliptv.com/logo/Cinestar%20Fantasy.png" group-title="Nasi Kanali",CineStar Fantasy
 http://telehetz.dvrdns.org:12345/live?channelId=563&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="CineStar TV Comedy" tvg-name="cinestarcomedy.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/cinestar-tv-comedy.png" group-title="Nasi Kanali",CineStar Comedy
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10845
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10845
 #EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="cinestarpremiere1" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%201%20HD.png" group-title="Nasi Kanali",CineStar Premiere 1
 http://telehetz.dvrdns.org:12345/live?channelId=317&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
-#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="cinestarpremiere2" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%202%20HD.png group-title="Nasi Kanali",CineStar Premiere 2
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="cinestarpremiere2" tvg-logo="http://reddeviliptv.com/logo/CineStar%20Premiere%202%20HD.png" group-title="Nasi Kanali",CineStar Premiere 2
 http://telehetz.dvrdns.org:12345/live?channelId=318&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-name="cinemax1" tvg-logo="http://reddeviliptv.com/logo/Cinemax%201%20HD.png" group-title="Nasi Kanali",Cinemax 1
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/2022
@@ -282,14 +284,14 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13764
 #EXTINF:-1 tvg-id="AXN Spin" tvg-name="axnspin" tvg-logo="http://reddeviliptv.com/logo/AXN%20Spin.png" group-title="Nasi Kanali",AXN Spin
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28394
 #EXTINF:-1 tvg-id="filmboxplus" tvg-name="filmboxplus" tvg-logo="https://tvprofil.com/img/kanali-logo/filmboxplus_logo.png" group-title="Nasi Kanali",FilmBox Plus
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10853
-#EXTINF:-1 tvg-id="FilmBox Extra FHD" tvg-name="filmboxextra" tvg-logo="http://reddeviliptv.com/logo/FilmBox%20Extra%20FHD.png" group-title="Nasi Kanali",FilmBox Extra
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10854
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10853
+#EXTINF:-1 tvg-id="FilmBox Extra FHD" tvg-name="filmboxextra" tvg-logo="http://reddeviliptv.com/logo/FilmBox%20Extra%20FHD.png" group-title="Nasi Kanali",FilmBox Extra-nema prevod
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10854
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star TV RS" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/05/star-tv-.png?resize=219%2C219" group-title="Nasi Kanali",Star TV RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28252
-#EXTINF:-1 tvg-id="Fox" tvg-name="foxtv" tvg-logo="http://reddeviliptv.com/logo/FOX.png" group-title="Nasi Kanali",FOX TV HRV
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1448
-#EXTINF:-1 tvg-id="Fox" tvg-name="foxtv" tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="Nasi Kanali",FOX TV SRB
+#EXTINF:-1 tvg-id="Fox" tvg-name="foxtv" tvg-logo="http://reddeviliptv.com/logo/FOX.png" group-title="Nasi Kanali",FOX TV 
+http://wrlstr.dvrdns.org:18066/live?channelId=93&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
+#EXTINF:-1 tvg-id="Fox" tvg-name="foxtv" tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="Nasi Kanali",FOX TV (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/52133
 #EXTINF:-1 tvg-id="FOX Movies" tvg-name="foxmovies" tvg-logo="http://reddeviliptv.com/logo/FOX%20Movies.png" group-title="Nasi Kanali",Fox Movies
 http://wrlstr.dvrdns.org:18066/live?channelId=276&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
@@ -301,8 +303,6 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1449
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17270
 #EXTINF:-1 tvg-id="TV 1000" tvg-name="tv1000" tvg-logo="http://reddeviliptv.com/logo/TV%201000.png" group-title="Nasi Kanali",TV 1000
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/11275
-#EXTINF:-1 tvg-id="Epic Drama FHD RS/HR/MK" tvg-name="epicdrama" tvg-link="" tvg-logo="http://reddeviliptv.com/logo/Epic Drama FHD.png" group-title="Nasi Kanali" ,EPIC DRAMA ne radi
-http://bitkananeretvi.net:8000/live.ts?channelId=1066&uid=50407&deviceMac=00:1A:79:40:9C:E9
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD RS" tvg-logo="http://reddeviliptv.com/logo/AMC.png" group-title="Nasi Kanali",AMC
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17276
 #EXTINF:-1 tvg-id="pickbox" tvg-name="pickbox" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pickbox_logo_new.png" group-title="Nasi Kanali",PickBox TV
@@ -334,7 +334,7 @@ http://wrlstr.dvrdns.org:18066/live?channelId=249&uid=318&deviceUser=brankonemac
 #EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo" tvg-logo="" group-title="Nasi Kanali",National Geographic HRV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1472
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="davinci" tvg-logo="http://reddeviliptv.com/logo/Da%20Vinci%20TV.png" group-title="Nasi Kanali",DaVinchi Learning
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10831
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10831
 #EXTINF:-1 tvg-id="Viasat Explore" tvg-name="viasatexp" tvg-logo="http://reddeviliptv.com/logo/Viasat%20Explore.png" group-title="Nasi Kanali",Viasat Explore
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28071
 #EXTINF:-1 tvg-id="Viasat Nature" tvg-name="viasatnat" tvg-logo="http://reddeviliptv.com/logo/Viasat%20Nature.png" group-title="Nasi Kanali",Viasat Nautre
@@ -356,7 +356,7 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13753
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth" group-title="Nasi Kanali",BBC Earth [B]
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28398
 #EXTINF:-1 tvg-id="Outdoor Channel FHD" tvg-name="outdoor" tvg-link="" tvg-logo="http://reddeviliptv.com/logo/Outdoor%20Channel.png"  group-title="Nasi Kanali" ,Outdoor Channel HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10813
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10813
 #EXTINF:-1 tvg-id="E! FHD" tvg-name="eenterntainment" tvg-logo="http://reddeviliptv.com/logo/E!%20FHD.png" group-title="Nasi Kanali",E!
 http://telehetz.dvrdns.org:12345/live?channelId=259&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="natgeowild" tvg-logo="http://reddeviliptv.com/logo/Nat%20Geo%20Wild.png" group-title="Nasi Kanali",Nat Geo Wild
@@ -378,7 +378,7 @@ http://wrlstr.dvrdns.org:18066/live?channelId=420&uid=318&deviceUser=brankonemac
 #EXTINF:-1 tvg-id="Food Network" tvg-name="foodnetwork" tvg-logo="https://p.kindpng.com/picc/s/245-2453753_food-network-logo-white-hd-png-download.png" group-title="Nasi Kanali",Food Network
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17267
 #EXTINF:-1 tvg-id="woman" tvg-name="woman" tvg-link="" tvg-logo="https://epg.serbianforum.org/logo_znaci/Woman.png" group-title="Nasi Kanali" ,Woman TV
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/11273
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/11273
 #EXTINF:-1 tvg-id="Lov i Ribolov" tvg-name="loviribolov" tvg-logo="http://reddeviliptv.com/logo/Lov%20i%20Ribolov.png" group-title="Nasi Kanali",Lov i Ribolov
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/3196
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="travel" tvg-logo="http://reddeviliptv.com/logo/Travel%20Channel.png" group-title="Nasi Kanali",Travel Channel
@@ -552,19 +552,19 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1475
 #EXTINF:-1 tvg-id="Jugoton TV" tvg-name="jugoton" tvg-logo="http://reddeviliptv.com/logo/Jugoton.png" group-title="Nasi Kanali",Jugoton
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/6561
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV HITS." tvg-logo="http://reddeviliptv.com/logo/MTV%20Hits.png" group-title="Nasi Kanali",MTV HITS.
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10785
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10785
 #EXTINF:-1 tvg-id="MTV Eu" tvg-name="MTV Adria" tvg-logo="http://reddeviliptv.com/logo/MTV%20Adria.png" group-title="Nasi Kanali",MTV Adria
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10784
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10784
 #EXTINF:-1 tvg-id="MTV Rocks" tvg-name="MTV ROCKS" tvg-logo="http://reddeviliptv.com/logo/MTV%20Rocks.png" group-title="Nasi Kanali",MTV ROCKS
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10786
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10786
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://reddeviliptv.com/logo/VH1.png" group-title="Nasi Kanali",VH1
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10787
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10787
 #EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH CLASIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8iWbrbusQtKEY9KelerIkMiN2qW5TwVfNgUHjUZF_a1D82bvg&s" group-title="Nasi Kanali",VH CLASIC
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10788
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10788
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="" group-title="Nasi Kanali",VH1
 http://a2.skynets.tv:8880/3282/KGSwLUDnD2/2894
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1Classic" tvg-logo="" group-title="Nasi Kanali",VH1Classic
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/kdGIALx802/10788
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10788
 #EXTINF:-1 tvg-id="CMC" tvg-name="CMC TV HR" tvg-logo="http://reddeviliptv.com/logo/CMC%20TV.png" group-title="Nasi Kanali",CMC TV HR
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/3171
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Sehara BA" tvg-logo="" group-title="Nasi Kanali",TV Sehara BA
@@ -763,6 +763,8 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/16821
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/16822
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub SI" tvg-logo="" group-title="Nasi Kanali",Sport Klub (Rezerva)
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/16823
+#EXTINF:-1 tvg-id="sk1.rs" tvg-name="sk1.rs" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 SRB (Rezerva)
+http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=318&deviceUser=brankonemacka&devicePass=eX923nY5
 #EXTINF:-1 tvg-id="" tvg-name="ARENA ESPORT HD" tvg-link="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDjqmI1DtcH2xJrN8T5IN3nIlTvHAEykY80xg=s240-mo-c-c0xffffffff-rj-k-no" group-title="Nasi Kanali" ,ARENA ESPORT HD
 http://bitkananeretvi.net:8000/live.ts?channelId=1068&uid=34972&deviceMac=00:1A:79:40:9C:E9
 #EXTINF:-1 tvg-id="SK Esports" tvg-name="SK Esport HD" tvg-link="" tvg-logo="http://reddeviliptv.com/logo/SK%20Esports.png" group-title="Nasi Kanali" ,SK ESPORTS HD
