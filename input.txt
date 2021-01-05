@@ -16,7 +16,7 @@ http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/chgBHEeUH8/10681
 #EXTINF:-1 tvg-id="Nova M" tvg-name="pinkm" tvg-logo="http://reddeviliptv.com/logo/Nova%20M.png" group-title="Nasi Kanali",Nova M
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24145
 #EXTINF:-1 tvg-id="Nova M" tvg-name="Nova M TV HD" tvg-logo="http://proxiapp.me/logo/cg/NovaM.png" group-title="Nasi Kanali",Nova M TV HD
-http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/Pink Montenegro/10676
+http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/chgBHEeUH8/10676
 #EXTINF:-1 tvg-id="niksic" tvg-name="TV NIKSIC HD" tvg-logo="http://www.rtnk.me/theme/images/footer-logo.png" group-title="Nasi Kanali",TV NIKSIC HD
 http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/chgBHEeUH8/10682
 #EXTINF:-1 tvg-id="budva" tvg-name="TV BUDVA HD" tvg-logo="http://proxiapp.me/logo/cg/Budva.png" group-title="Nasi Kanali",TV BUDVA HD
