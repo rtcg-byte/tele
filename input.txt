@@ -83,6 +83,14 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13829
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13830
 #EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="sk6.rs" tvg-logo="http://reddeviliptv.com/logo/SK6.png" group-title="Nasi Kanali",Sport Klub 6 SRB
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13831
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-name="Sport Klub 7" tvg-logo="http://proxiapp.me/logo/Sport/Domaci/SK7.png" group-title="Nasi Kanali",Sport Klub 7
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10529
+#EXTINF:-1 tvg-id="Sport Klub 8" tvg-name="Sport Klub 8" tvg-logo="http://proxiapp.me/logo/Sport/Domaci/SK8.png" group-title="Nasi Kanali",Sport Klub 8
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10530
+#EXTINF:-1 tvg-id="Sport Klub 9" tvg-name="Sport Klub 9" tvg-logo="http://proxiapp.me/logo/Sport/Domaci/SK9.png" group-title="Nasi Kanali",Sport Klub 9
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10531
+#EXTINF:-1 tvg-id="Sport Klub 10" tvg-name="Sport Klub 10" tvg-logo="http://proxiapp.me/logo/Sport/Domaci/SK10.png" group-title="Nasi Kanali",Sport Klub 10
+http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10532
 #EXTINF:-1 tvg-id="SK1 HR FHD" tvg-name="Sport Klub 1 FHD HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 FHD HR
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17256
 #EXTINF:-1 tvg-id="sk1" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="Nasi Kanali",Sport Klub 1 HD HR
