@@ -11,8 +11,6 @@ http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10680
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/3189
 #EXTINF:-1 tvg-id="Pink Montenegro" tvg-name="pinkcg" tvg-logo="http://reddeviliptv.com/logo/Pink%20M.png" group-title="Nasi Kanali",Pink M
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/23661
-#EXTINF:-1 tvg-id="Pink Montenegro" tvg-name="Pink M" tvg-logo="http://proxiapp.me/logo/pink/PinkM.png" group-title="Nasi Kanali",Pink M (Rezerva)
-http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10859
 #EXTINF:-1 tvg-id="prvamne" tvg-name="prvamne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4Af933W6bl-p37yYpVTRTmJXMvhw7iuvhm_z0xkbsgo5N5foZ" group-title="Nasi Kanali",Prva CG
 http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10681
 #EXTINF:-1 tvg-id="Nova M" tvg-name="pinkm" tvg-logo="http://reddeviliptv.com/logo/Nova%20M.png" group-title="Nasi Kanali",Nova M
