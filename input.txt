@@ -307,6 +307,8 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/11275
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17276
 #EXTINF:-1 tvg-id="pickbox" tvg-name="pickbox" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pickbox_logo_new.png" group-title="Nasi Kanali",PickBox TV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27819
+#EXTINF:-1 tvg-id="Film Klub" tvg-name="pickbox" tvg-logo="https://www.ofps.org.rs/wp-content/uploads/2019/08/filmklub.png" group-title="Nasi Kanali",Film Klub
+http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/12395
 #EXTINF:-1 tvg-id="kinotv" tvg-name="kinotv" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pr/kinotv-alt.png" group-title="Nasi Kanali",Kino TV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27548
 #EXTINF:-1 tvg-id="Klasik TV" tvg-name="klasiktv" tvg-logo="http://reddeviliptv.com/logo/Klasik%20TV.png" group-title="Nasi Kanali",Klasik Tv
@@ -353,10 +355,10 @@ http://wrlstr.dvrdns.org:18066/live?channelId=511&uid=318&deviceUser=brankonemac
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27035
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="bbcearth" tvg-logo="http://reddeviliptv.com/logo/BBC%20Earth%20FHD.png" group-title="Nasi Kanali",BBC Earth
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28388
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-name="pinkpedia" tvg-logo="http://reddeviliptv.com/logo/Pink%20Pedia.png" group-title="Nasi Kanali",Pink Pedia
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13753
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth" group-title="Nasi Kanali",BBC Earth [B]
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/28398
+#EXTINF:-1 tvg-id="Pink Pedia" tvg-name="pinkpedia" tvg-logo="http://reddeviliptv.com/logo/Pink%20Pedia.png" group-title="Nasi Kanali",Pink Pedia
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13753
 #EXTINF:-1 tvg-id="Outdoor Channel FHD" tvg-name="outdoor" tvg-link="" tvg-logo="http://reddeviliptv.com/logo/Outdoor%20Channel.png"  group-title="Nasi Kanali" ,Outdoor Channel HD
 http://mndreamvspp.for-better.biz:5436/UtXIFpmvCZ/yonUh9HB0q/10813
 #EXTINF:-1 tvg-id="E! FHD" tvg-name="eenterntainment" tvg-logo="http://reddeviliptv.com/logo/E!%20FHD.png" group-title="Nasi Kanali",E!
