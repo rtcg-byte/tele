@@ -239,6 +239,8 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24144
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15861
 #EXTINF:-1 tvg-id="Hayat Plus" tvg-name="hayatplus" tvg-logo="http://reddeviliptv.com/logo/Hayat%20Plus.png" group-title="Nasi Kanali",Hayat Plus
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15859
+#EXTINF:-1 tvg-id="TV 1" tvg-name="O Kanal BA" tvg-logo="http://reddeviliptv.com/logo/TV1.png" group-title="Nasi Kanali",O Kanal BA
+http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/32686
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moje Bugojno BA" tvg-logo="https://poslovni.telemach.ba/wp-content/uploads/2020/04/tv-bugojno.png" group-title="Nasi Kanali",Moje Bugojno BA
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/24178
 #EXTINF:-1 tvg-id="citytv" tvg-name="citytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_of_CITY_TV.png" group-title="Nasi Kanali",City Tv
@@ -679,8 +681,6 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/32683
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/32684
 #EXTINF:-1 tvg-id="tvkakanj" tvg-name="tvkakanj" tvg-logo="" group-title="Nasi Kanali",tvkakanj
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/32685
-#EXTINF:-1 tvg-id="TV 1" tvg-name="O Kanal BA" tvg-logo="http://reddeviliptv.com/logo/TV1.png" group-title="Nasi Kanali",O Kanal BA
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/32686
 #EXTINF:-1 tvg-id="posavinatv" tvg-name="posavinatv" tvg-logo="" group-title="Nasi Kanali",posavinatv
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/32687
 #EXTINF:-1 tvg-id="rtsmaribor" tvg-name="rtsmaribor" tvg-logo="" group-title="Nasi Kanali",rtsmaribor
