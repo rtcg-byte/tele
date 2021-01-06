@@ -322,7 +322,7 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/20143
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="discovery" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Channel.png" group-title="Nasi Kanali",Discovery
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1445
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="discoverysci" tvg-logo="http://reddeviliptv.com/logo/Discovery%20Science.png" group-title="Nasi Kanali",Discovery Science
-http://mu03.smartersplus.com:8880/FL4MF435/XBH46GG4H/49104
+http://mytv.fun:8080/lz5t0w5w1e/c1rin5j8r/686001
 #EXTINF:-1 tvg-id="discoverysci" tvg-name="discoverysci" group-title="Nasi Kanali",Discovery Science
 http://mu03.smartersplus.com:8880/FL4MF435/XBH46GG4H/49292
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="natgeors" tvg-logo="http://reddeviliptv.com/logo/National%20Geographic%20HD.png" group-title="Nasi Kanali",National Geographic SRB
