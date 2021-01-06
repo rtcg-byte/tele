@@ -312,9 +312,11 @@ http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/3194
 #EXTINF:-1 tvg-id="M1 Film" tvg-name="m1film" tvg-logo="http://reddeviliptv.com/logo/M1%20Film.png" group-title="Nasi Kanali",M1 Film
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27547
 #EXTINF:-1 tvg-id="M1 Gold" tvg-name="m1gold" tvg-logo="http://reddeviliptv.com/logo/M1%20Gold.png" group-title="Nasi Kanali",M1 Gold
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27546
+http://rv.therevenge.co:80/9372941246/5108585674/85288
 #EXTINF:-1 tvg-id="Superstar TV" tvg-name="Superstar TV RS" tvg-logo="http://reddeviliptv.com/logo/Supestar.png" group-title="Nasi Kanali",Superstar TV RS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/27308
+#EXTINF:-1 tvg-id="Epic Drama FHD RS/HR/MK" tvg-name="epicdrama" tvg-link="" tvg-logo="http://reddeviliptv.com/logo/Epic Drama FHD.png" group-title="Nasi Kanali" ,EPIC DRAMA
+http://rv.therevenge.co:80/9372941246/5108585674/85301
 #EXTINF:-1 tvg-id="DIVA" tvg-name="diva" tvg-logo="http://reddeviliptv.com/logo/DIVA%20TV.png" group-title="Nasi Kanali",Diva
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13770
 #EXTINF:-1 tvg-id="DocuBox" tvg-name="docubox" tvg-logo="http://reddeviliptv.com/logo/DocuBox%20FHD.png"" group-title="Nasi Kanali",DocuBox
