@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtcg1" tvg-name="rtcg1" tvg-logo="http://proxiapp.me/logo/cg/RTCG1.png" group-title="Nasi Kanali",RTCG 1
+#EXTINF:-1 tvg-id="rtcg1" tvg-name="rtcg1" tvg-logo="http://proxiapp.me/logo/cg/RTCG1.png" group-title="Nasi Kanali",RTCG 1 (mtel)
 http://mndreamvspp.for-better.biz:5436/0IUeL2Sdnh/abLwA9lBNS/10678
 #EXTINF:-1 tvg-id="TVCG Sat FHD" tvg-name="rtcgSat" tvg-logo="http://reddeviliptv.com/logo/RTCG%20Sat.png" group-title="Nasi Kanali",RTCG Satelit
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13814
