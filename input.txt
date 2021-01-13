@@ -44,7 +44,7 @@ http://mndreamvspp.for-better.biz:5436/4axIT0Snux/CRqQizDoPC/10692
 #EXTINF:-1 tvg-id="777" tvg-name="777 ME" tvg-logo="http://proxiapp.me/logo/cg/TV777.png" group-title="Nasi Kanali",777 TV (mtel)
 http://mndreamvspp.for-better.biz:5436/4axIT0Snux/CRqQizDoPC/10693
 #EXTINF:-1 tvg-id="" tvg-name="MonteLux TV" tvg-logo="http://proxiapp.me/logo/cg/MonLux.png" group-title="Nasi Kanali",MonteLux TV
-http://mndreamvspp.for-better.biz:5436/4axIT0Snux/chgBHEeUH8/10694
+http://mndreamvspp.for-better.biz:5436/4axIT0Snux/CRqQizDoPC/10694
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="eurosport1" tvg-logo="http://reddeviliptv.com/logo/Eurosport%201.png" group-title="Nasi Kanali",EuroSport 1
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/1443
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="eurosport2" tvg-logo="http://reddeviliptv.com/logo/Eurosport%202.png" group-title="Nasi Kanali",EuroSport 2
@@ -222,7 +222,7 @@ http://mndreamvspp.for-better.biz:5436/4axIT0Snux/CRqQizDoPC/10541
 #EXTINF:-1 tvg-id="fightnetwork" tvg-name="fightnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1024px-Fight_network_logo.svg.png" group-title="Nasi Kanali", Fight Network
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/29556
 #EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png" group-title="Nasi Kanali",Fight Channel
-http://mndreamvspp.for-better.biz:5436/4axIT0Snux/chgBHEeUH8/22994
+http://mndreamvspp.for-better.biz:5436/4axIT0Snux/CRqQizDoPC/22994
 #EXTINF:-1 tvg-id="HNTV" tvg-name="hntv" tvg-logo="http://reddeviliptv.com/logo/HNTV.png"group-title="Nasi Kanali",HNTV
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/13771
 #EXTINF:-1 tvg-id="Face TV" tvg-name="face" tvg-logo="http://reddeviliptv.com/logo/Face%20TV%20HD.png" group-title="Nasi Kanali",Face tv
